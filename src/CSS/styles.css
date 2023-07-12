@@ -31,7 +31,7 @@ body::before {
   justify-content: center;
 }
 
-.seleção-de-personagens{
+.selecao-de-personagens {
   display: flex;
   justify-content: center;
   align-items: center;
