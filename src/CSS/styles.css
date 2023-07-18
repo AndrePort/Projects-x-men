@@ -63,6 +63,9 @@ body::before {
   text-align: center;
 }
 
+.personagem {
+  border-bottom: 4px solid #47f4ff;
+}
 .personagem img {
   width: 100%;
   height: 100%;
